@@ -1,2 +1,2 @@
 # codoacodoejemplos
-mis primeros pasos
+mis primeros pasos, con git y la programacion
